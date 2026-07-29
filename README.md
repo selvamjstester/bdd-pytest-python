@@ -4,6 +4,8 @@
 
 **Behaviour-Driven Development** framework using **pytest-bdd** with **Gherkin** feature files. Covers both **Web UI** (Playwright, against [SauceDemo](https://www.saucedemo.com)) and **API** (requests, against [JSONPlaceholder](https://jsonplaceholder.typicode.com)).
 
+> 🧑‍🎓 **New to coding or BDD?** Read **[LEARN.md](LEARN.md)** — a from-scratch guide to Gherkin, step definitions, and writing your own scenario.
+
 ## Highlights
 
 - 🥒 **Gherkin** `.feature` files (`Scenario`, `Background`, `Scenario Outline` + `Examples`)
